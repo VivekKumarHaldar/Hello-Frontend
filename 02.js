@@ -1,2 +1,5 @@
-var firstName = "vivek";
+"use strict";
+
+
+var firstName = "Mohit";
 console.log(firstName);
